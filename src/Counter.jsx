@@ -10,4 +10,4 @@ export default function Counter() {
       <button onClick={incCount}>Increae Count</button>
     </>
   );
-
+}
