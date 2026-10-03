@@ -68,7 +68,6 @@ export default function TodoList() {
       </ul>
       <br />
       <br />
-      <button onClick={upperCaseAll}>UpperCase All</button>
     </div>
   );
 }
